@@ -1,0 +1,402 @@
+[
+	{
+		"Id": 1,
+		"Name": "Mock News Title 1",
+		"Description": "Description for mock news 1.",
+		"Url": "https://picsum.photos/seed/news1/600/400",
+		"ImageUrl": "",
+		"PublishedAt": "2025-04-11T15:03:27.7963092Z"
+	},
+	{
+		"Id": 2,
+		"Name": "Mock News Title 2",
+		"Description": "Description for mock news 2.",
+		"Url": "https://picsum.photos/seed/news2/600/400",
+		"ImageUrl": "",
+		"PublishedAt": "2025-04-11T15:03:27.7986882Z"
+	},
+	{
+		"Id": 3,
+		"Name": "Mock News Title 3",
+		"Description": "Description for mock news 3.",
+		"Url": "https://picsum.photos/seed/news3/600/400",
+		"ImageUrl": "",
+		"PublishedAt": "2025-04-14T15:03:27.7987311Z"
+	},
+	{
+		"Id": 4,
+		"Name": "Mock News Title 4",
+		"Description": "Description for mock news 4.",
+		"Url": "https://picsum.photos/seed/news4/600/400",
+		"ImageUrl": "",
+		"PublishedAt": "2025-04-13T15:03:27.7987563Z"
+	},
+	{
+		"Id": 5,
+		"Name": "Mock News Title 5",
+		"Description": "Description for mock news 5.",
+		"Url": "https://picsum.photos/seed/news5/600/400",
+		"ImageUrl": "",
+		"PublishedAt": "2025-04-10T15:03:27.798783Z"
+	},
+	{
+		"Id": 6,
+		"Name": "Mock News Title 6",
+		"Description": "Description for mock news 6.",
+		"Url": "https://picsum.photos/seed/news6/600/400",
+		"ImageUrl": "",
+		"PublishedAt": "2025-04-05T15:03:27.7988236Z"
+	},
+	{
+		"Id": 7,
+		"Name": "Mock News Title 7",
+		"Description": "Description for mock news 7.",
+		"Url": "https://picsum.photos/seed/news7/600/400",
+		"ImageUrl": "",
+		"PublishedAt": "2025-04-22T15:03:27.7988502Z"
+	},
+	{
+		"Id": 8,
+		"Name": "Mock News Title 8",
+		"Description": "Description for mock news 8.",
+		"Url": "https://picsum.photos/seed/news8/600/400",
+		"ImageUrl": "",
+		"PublishedAt": "2025-04-17T15:03:27.7988801Z"
+	},
+	{
+		"Id": 9,
+		"Name": "Mock News Title 9",
+		"Description": "Description for mock news 9.",
+		"Url": "https://picsum.photos/seed/news9/600/400",
+		"ImageUrl": "",
+		"PublishedAt": "2025-04-19T15:03:27.7989116Z"
+	},
+	{
+		"Id": 10,
+		"Name": "Mock News Title 10",
+		"Description": "Description for mock news 10.",
+		"Url": "https://picsum.photos/seed/news10/600/400",
+		"ImageUrl": "",
+		"PublishedAt": "2025-04-13T15:03:27.7989363Z"
+	},
+	{
+		"Id": 11,
+		"Name": "Mock News Title 11",
+		"Description": "Description for mock news 11.",
+		"Url": "https://picsum.photos/seed/news11/600/400",
+		"ImageUrl": "",
+		"PublishedAt": "2025-04-21T15:03:27.7989613Z"
+	},
+	{
+		"Id": 12,
+		"Name": "Mock News Title 12",
+		"Description": "Description for mock news 12.",
+		"Url": "https://picsum.photos/seed/news12/600/400",
+		"ImageUrl": "",
+		"PublishedAt": "2025-04-29T15:03:27.7990155Z"
+	},
+	{
+		"Id": 13,
+		"Name": "Mock News Title 13",
+		"Description": "Description for mock news 13.",
+		"Url": "https://picsum.photos/seed/news13/600/400",
+		"ImageUrl": "",
+		"PublishedAt": "2025-04-18T15:03:27.7990593Z"
+	},
+	{
+		"Id": 14,
+		"Name": "Mock News Title 14",
+		"Description": "Description for mock news 14.",
+		"Url": "https://picsum.photos/seed/news14/600/400",
+		"ImageUrl": "",
+		"PublishedAt": "2025-04-14T15:03:27.7990901Z"
+	},
+	{
+		"Id": 15,
+		"Name": "Mock News Title 15",
+		"Description": "Description for mock news 15.",
+		"Url": "https://picsum.photos/seed/news15/600/400",
+		"ImageUrl": "",
+		"PublishedAt": "2025-04-21T15:03:27.7991281Z"
+	},
+	{
+		"Id": 16,
+		"Name": "Mock News Title 16",
+		"Description": "Description for mock news 16.",
+		"Url": "https://picsum.photos/seed/news16/600/400",
+		"ImageUrl": "",
+		"PublishedAt": "2025-04-29T15:03:27.799159Z"
+	},
+	{
+		"Id": 17,
+		"Name": "Mock News Title 17",
+		"Description": "Description for mock news 17.",
+		"Url": "https://picsum.photos/seed/news17/600/400",
+		"ImageUrl": "",
+		"PublishedAt": "2025-04-20T15:03:27.7991846Z"
+	},
+	{
+		"Id": 18,
+		"Name": "Mock News Title 18",
+		"Description": "Description for mock news 18.",
+		"Url": "https://picsum.photos/seed/news18/600/400",
+		"ImageUrl": "",
+		"PublishedAt": "2025-04-18T15:03:27.7992164Z"
+	},
+	{
+		"Id": 19,
+		"Name": "Mock News Title 19",
+		"Description": "Description for mock news 19.",
+		"Url": "https://picsum.photos/seed/news19/600/400",
+		"ImageUrl": "",
+		"PublishedAt": "2025-04-14T15:03:27.7993366Z"
+	},
+	{
+		"Id": 20,
+		"Name": "Mock News Title 20",
+		"Description": "Description for mock news 20.",
+		"Url": "https://picsum.photos/seed/news20/600/400",
+		"ImageUrl": "",
+		"PublishedAt": "2025-04-10T15:03:27.7994349Z"
+	},
+	{
+		"Id": 21,
+		"Name": "Mock News Title 21",
+		"Description": "Description for mock news 21.",
+		"Url": "https://picsum.photos/seed/news21/600/400",
+		"ImageUrl": "",
+		"PublishedAt": "2025-04-19T15:03:27.7994775Z"
+	},
+	{
+		"Id": 22,
+		"Name": "Mock News Title 22",
+		"Description": "Description for mock news 22.",
+		"Url": "https://picsum.photos/seed/news22/600/400",
+		"ImageUrl": "",
+		"PublishedAt": "2025-04-28T15:03:27.7995194Z"
+	},
+	{
+		"Id": 23,
+		"Name": "Mock News Title 23",
+		"Description": "Description for mock news 23.",
+		"Url": "https://picsum.photos/seed/news23/600/400",
+		"ImageUrl": "",
+		"PublishedAt": "2025-04-13T15:03:27.7995639Z"
+	},
+	{
+		"Id": 24,
+		"Name": "Mock News Title 24",
+		"Description": "Description for mock news 24.",
+		"Url": "https://picsum.photos/seed/news24/600/400",
+		"ImageUrl": "",
+		"PublishedAt": "2025-04-29T15:03:27.7996167Z"
+	},
+	{
+		"Id": 25,
+		"Name": "Mock News Title 25",
+		"Description": "Description for mock news 25.",
+		"Url": "https://picsum.photos/seed/news25/600/400",
+		"ImageUrl": "",
+		"PublishedAt": "2025-04-14T15:03:27.7996507Z"
+	},
+	{
+		"Id": 26,
+		"Name": "Mock News Title 26",
+		"Description": "Description for mock news 26.",
+		"Url": "https://picsum.photos/seed/news26/600/400",
+		"ImageUrl": "",
+		"PublishedAt": "2025-04-29T15:03:27.7996978Z"
+	},
+	{
+		"Id": 27,
+		"Name": "Mock News Title 27",
+		"Description": "Description for mock news 27.",
+		"Url": "https://picsum.photos/seed/news27/600/400",
+		"ImageUrl": "",
+		"PublishedAt": "2025-04-14T15:03:27.799739Z"
+	},
+	{
+		"Id": 28,
+		"Name": "Mock News Title 28",
+		"Description": "Description for mock news 28.",
+		"Url": "https://picsum.photos/seed/news28/600/400",
+		"ImageUrl": "",
+		"PublishedAt": "2025-04-01T15:03:27.7997735Z"
+	},
+	{
+		"Id": 29,
+		"Name": "Mock News Title 29",
+		"Description": "Description for mock news 29.",
+		"Url": "https://picsum.photos/seed/news29/600/400",
+		"ImageUrl": "",
+		"PublishedAt": "2025-04-13T15:03:27.7998156Z"
+	},
+	{
+		"Id": 30,
+		"Name": "Mock News Title 30",
+		"Description": "Description for mock news 30.",
+		"Url": "https://picsum.photos/seed/news30/600/400",
+		"ImageUrl": "",
+		"PublishedAt": "2025-03-31T15:03:27.7998508Z"
+	},
+	{
+		"Id": 31,
+		"Name": "Mock News Title 31",
+		"Description": "Description for mock news 31.",
+		"Url": "https://picsum.photos/seed/news31/600/400",
+		"ImageUrl": "",
+		"PublishedAt": "2025-04-26T15:03:27.7998795Z"
+	},
+	{
+		"Id": 32,
+		"Name": "Mock News Title 32",
+		"Description": "Description for mock news 32.",
+		"Url": "https://picsum.photos/seed/news32/600/400",
+		"ImageUrl": "",
+		"PublishedAt": "2025-04-12T15:03:27.7999115Z"
+	},
+	{
+		"Id": 33,
+		"Name": "Mock News Title 33",
+		"Description": "Description for mock news 33.",
+		"Url": "https://picsum.photos/seed/news33/600/400",
+		"ImageUrl": "",
+		"PublishedAt": "2025-04-15T15:03:27.7999369Z"
+	},
+	{
+		"Id": 34,
+		"Name": "Mock News Title 34",
+		"Description": "Description for mock news 34.",
+		"Url": "https://picsum.photos/seed/news34/600/400",
+		"ImageUrl": "",
+		"PublishedAt": "2025-03-31T15:03:27.7999705Z"
+	},
+	{
+		"Id": 35,
+		"Name": "Mock News Title 35",
+		"Description": "Description for mock news 35.",
+		"Url": "https://picsum.photos/seed/news35/600/400",
+		"ImageUrl": "",
+		"PublishedAt": "2025-04-15T15:03:27.8000111Z"
+	},
+	{
+		"Id": 36,
+		"Name": "Mock News Title 36",
+		"Description": "Description for mock news 36.",
+		"Url": "https://picsum.photos/seed/news36/600/400",
+		"ImageUrl": "",
+		"PublishedAt": "2025-04-09T15:03:27.8000498Z"
+	},
+	{
+		"Id": 37,
+		"Name": "Mock News Title 37",
+		"Description": "Description for mock news 37.",
+		"Url": "https://picsum.photos/seed/news37/600/400",
+		"ImageUrl": "",
+		"PublishedAt": "2025-04-20T15:03:27.8000801Z"
+	},
+	{
+		"Id": 38,
+		"Name": "Mock News Title 38",
+		"Description": "Description for mock news 38.",
+		"Url": "https://picsum.photos/seed/news38/600/400",
+		"ImageUrl": "",
+		"PublishedAt": "2025-04-22T15:03:27.8001097Z"
+	},
+	{
+		"Id": 39,
+		"Name": "Mock News Title 39",
+		"Description": "Description for mock news 39.",
+		"Url": "https://picsum.photos/seed/news39/600/400",
+		"ImageUrl": "",
+		"PublishedAt": "2025-04-01T15:03:27.8001367Z"
+	},
+	{
+		"Id": 40,
+		"Name": "Mock News Title 40",
+		"Description": "Description for mock news 40.",
+		"Url": "https://picsum.photos/seed/news40/600/400",
+		"ImageUrl": "",
+		"PublishedAt": "2025-04-03T15:03:27.8001641Z"
+	},
+	{
+		"Id": 41,
+		"Name": "Mock News Title 41",
+		"Description": "Description for mock news 41.",
+		"Url": "https://picsum.photos/seed/news41/600/400",
+		"ImageUrl": "",
+		"PublishedAt": "2025-04-13T15:03:27.8001912Z"
+	},
+	{
+		"Id": 42,
+		"Name": "Mock News Title 42",
+		"Description": "Description for mock news 42.",
+		"Url": "https://picsum.photos/seed/news42/600/400",
+		"ImageUrl": "",
+		"PublishedAt": "2025-04-28T15:03:27.8002162Z"
+	},
+	{
+		"Id": 43,
+		"Name": "Mock News Title 43",
+		"Description": "Description for mock news 43.",
+		"Url": "https://picsum.photos/seed/news43/600/400",
+		"ImageUrl": "",
+		"PublishedAt": "2025-04-13T15:03:27.8002405Z"
+	},
+	{
+		"Id": 44,
+		"Name": "Mock News Title 44",
+		"Description": "Description for mock news 44.",
+		"Url": "https://picsum.photos/seed/news44/600/400",
+		"ImageUrl": "",
+		"PublishedAt": "2025-04-23T15:03:27.8002785Z"
+	},
+	{
+		"Id": 45,
+		"Name": "Mock News Title 45",
+		"Description": "Description for mock news 45.",
+		"Url": "https://picsum.photos/seed/news45/600/400",
+		"ImageUrl": "",
+		"PublishedAt": "2025-04-09T15:03:27.8003127Z"
+	},
+	{
+		"Id": 46,
+		"Name": "Mock News Title 46",
+		"Description": "Description for mock news 46.",
+		"Url": "https://picsum.photos/seed/news46/600/400",
+		"ImageUrl": "",
+		"PublishedAt": "2025-04-10T15:03:27.8003395Z"
+	},
+	{
+		"Id": 47,
+		"Name": "Mock News Title 47",
+		"Description": "Description for mock news 47.",
+		"Url": "https://picsum.photos/seed/news47/600/400",
+		"ImageUrl": "",
+		"PublishedAt": "2025-04-09T15:03:27.8003629Z"
+	},
+	{
+		"Id": 48,
+		"Name": "Mock News Title 48",
+		"Description": "Description for mock news 48.",
+		"Url": "https://picsum.photos/seed/news48/600/400",
+		"ImageUrl": "",
+		"PublishedAt": "2025-04-12T15:03:27.8003848Z"
+	},
+	{
+		"Id": 49,
+		"Name": "Mock News Title 49",
+		"Description": "Description for mock news 49.",
+		"Url": "https://picsum.photos/seed/news49/600/400",
+		"ImageUrl": "",
+		"PublishedAt": "2025-04-19T15:03:27.8004153Z"
+	},
+	{
+		"Id": 50,
+		"Name": "Mock News Title 50",
+		"Description": "Description for mock news 50.",
+		"Url": "https://picsum.photos/seed/news50/600/400",
+		"ImageUrl": "",
+		"PublishedAt": "2025-04-25T15:03:27.8004445Z"
+	}
+]

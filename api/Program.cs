@@ -29,6 +29,14 @@ builder.Services.AddSwaggerGen(options =>
     }
 });
 
+builder.Services.AddCors(options =>
+{
+    options.AddDefaultPolicy(policy =>
+    {
+        policy.AllowAnyHeader().AllowAnyMethod().AllowAnyOrigin();
+    });
+});
+
 var app = builder.Build();
 
 if (app.Environment.IsDevelopment())
@@ -43,7 +51,7 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseRouting();
-
+app.UseCors();
 app.MapControllers();
 
 app.Run();

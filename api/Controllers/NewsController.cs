@@ -12,11 +12,12 @@ public class NewsController : ControllerBase
     public NewsController(NewsService service) => _service = service;
 
     [HttpGet]
-    public ActionResult<IEnumerable<NewsItem>> GetAll([FromQuery] string? query = null)
+    public ActionResult<IEnumerable<NewsItem>> Get([FromQuery] string? q)
     {
         try
         {
-            return Ok(_service.GetAll(query));
+            var result = _service.GetAll(q);
+            return Ok(result);
         }
         catch (Exception ex)
         {

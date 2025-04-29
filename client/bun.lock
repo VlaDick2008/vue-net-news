@@ -15,6 +15,7 @@
         "@tsconfig/node22": "^22.0.1",
         "@types/node": "^22.14.0",
         "@vitejs/plugin-vue": "^5.2.3",
+        "@vsme/vue-virtual-scroller": "^1.0.1",
         "@vue/eslint-config-typescript": "^14.5.0",
         "@vue/tsconfig": "^0.7.0",
         "eslint": "^9.22.0",
@@ -310,6 +311,8 @@
     "@volar/source-map": ["@volar/source-map@2.4.13", "", {}, "sha512-l/EBcc2FkvHgz2ZxV+OZK3kMSroMr7nN3sZLF2/f6kWW66q8+tEL4giiYyFjt0BcubqJhBt6soYIrAPhg/Yr+Q=="],
 
     "@volar/typescript": ["@volar/typescript@2.4.13", "", { "dependencies": { "@volar/language-core": "2.4.13", "path-browserify": "^1.0.1", "vscode-uri": "^3.0.8" } }, "sha512-Ukz4xv84swJPupZeoFsQoeJEOm7U9pqsEnaGGgt5ni3SCTa22m8oJP5Nng3Wed7Uw5RBELdLxxORX8YhJPyOgQ=="],
+
+    "@vsme/vue-virtual-scroller": ["@vsme/vue-virtual-scroller@1.0.1", "", {}, "sha512-9/iFHBz9EjAwaigFhE0Fk8hqn0zskAQhswLfj54uLvCUcoge7plmL/L25aK+sTfo1bC2liosv1etabPAU5V+Eg=="],
 
     "@vue/babel-helper-vue-transform-on": ["@vue/babel-helper-vue-transform-on@1.4.0", "", {}, "sha512-mCokbouEQ/ocRce/FpKCRItGo+013tHg7tixg3DUNS+6bmIchPt66012kBMm476vyEIJPafrvOf4E5OYj3shSw=="],
 

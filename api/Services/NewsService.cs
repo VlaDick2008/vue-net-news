@@ -15,8 +15,14 @@ public class NewsService
 
     public IEnumerable<NewsItem> GetAll(string? query = null)
     {
-        return string.IsNullOrEmpty(query)
-            ? _newsItems
-            : _newsItems.Where(x => x.Name.Contains(query, StringComparison.OrdinalIgnoreCase));
+        if (string.IsNullOrWhiteSpace(query))
+            return _newsItems;
+
+        query = query.Trim();
+
+        return _newsItems.Where(x =>
+            x.Name.Contains(query, StringComparison.CurrentCultureIgnoreCase)
+            || x.Description.Contains(query, StringComparison.CurrentCultureIgnoreCase)
+        );
     }
 }

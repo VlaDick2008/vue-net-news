@@ -24,6 +24,7 @@ export const useNewsStore = defineStore("news", {
 				const res = await axios.get("http://localhost:5007/api/news", {
 					params: { q: query },
 				});
+
 				this.items = res.data;
 			} catch (err: unknown) {
 				if (err instanceof Error) {

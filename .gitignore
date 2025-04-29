@@ -49,11 +49,6 @@ obj/
 Debug/
 Release/
 
-# Ignore .NET Core Web API files
-Controllers/
-Models/
-Views/
-
 # Ignore logs
 *.log
 

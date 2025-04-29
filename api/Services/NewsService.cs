@@ -9,7 +9,7 @@ public class NewsService
 
     public NewsService()
     {
-        var json = File.ReadAllText(Path.Combine("../Data", "news.json"));
+        var json = File.ReadAllText(Path.Combine("../api/Data", "news.json"));
         _newsItems = JsonSerializer.Deserialize<List<NewsItem>>(json)!;
     }
 

@@ -1,0 +1,64 @@
+# Ignore operating system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE files
+.idea/
+.vscode/
+
+# Ignore node_modules
+node_modules/
+
+# Ignore logs
+*.log
+
+# Ignore build files
+dist/
+build/
+
+# Ignore Vue.js files
+.vuepress/dist/
+.vuepress/public/
+
+# Ignore other files
+.env
+.cache/
+.temp/
+coverage/
+
+# Ignore operating system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE files
+.vs/
+.vscode/
+*.suo
+*.ntvs*
+*.nupkg
+*.user
+*.sln.docstates
+*.userosscache
+
+# Ignore NuGet packages
+packages/
+
+# Ignore .NET Core files
+bin/
+obj/
+Debug/
+Release/
+
+# Ignore .NET Core Web API files
+Controllers/
+Models/
+Views/
+
+# Ignore logs
+*.log
+
+# Ignore other files
+.env
+.cache/
+.temp/
+coverage/

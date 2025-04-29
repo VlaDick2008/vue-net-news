@@ -10,7 +10,7 @@
           target="_blank">Contacts</a></li>
     </ul>
     <button
-      class="bg-[#e42e26] bg-gradient-to-b from-[#ec6d67] to-[#e42e26] text-white cursor-pointer hover:opacity-90 p-6 text-xl transition-opacity rounded-md">Schedule
+      class="bg-[#e42e26] bg-gradient-to-b from-[#ec6d67] to-[#e42e26] text-white cursor-pointer hover:opacity-90 px-6 py-3 text-xl transition-opacity rounded-md">Schedule
       DEMO</button>
   </header>
 </template>
